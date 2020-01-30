@@ -38,7 +38,6 @@ def DisplayText(event=None):
         #generate POS tags for each word
 	for words in post_punctuation:
 		string=nltk.pos_tag([words])
-
 		chat.configure(state='normal')
 		chat.insert('end',string[0][0]+": "+string[0][1]+ '\n')
 		chat.configure(state='disabled')

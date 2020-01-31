@@ -65,6 +65,6 @@ set(stopwords.words('english'))
 The tkinter toolkit uses various _widgets_ to help create a GUI.
 To undestand the working of the widgets [visit](https://www.tutorialspoint.com/python/python_gui_programming.htm) 
 
-## AUthor 
+## Author 
 
-- Chetan Rawat - Initial work [chetan98](https://github.com/chetan98)
+- Chetan Rawat [chetan98](https://github.com/chetan98)

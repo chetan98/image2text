@@ -58,7 +58,7 @@ import nltk
 from nltk.corpus import stopwords
 set(stopwords.words('english'))
 ```
-**_Punctuations_** : The marks, such as full stop, comma, and brackets, arenot required anc can be safely sacrificed.
+**_Punctuations_** : The marks, such as full stop, comma, question mark and brackets, are not required and should be removed.
 
 ## GUI Designing
 
